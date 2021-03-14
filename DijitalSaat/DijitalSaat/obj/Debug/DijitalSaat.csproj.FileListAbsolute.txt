@@ -1,0 +1,9 @@
+c:\users\sercan\documents\visual studio 2015\Projects\DijitalSaat\DijitalSaat\bin\Debug\DijitalSaat.exe.config
+c:\users\sercan\documents\visual studio 2015\Projects\DijitalSaat\DijitalSaat\bin\Debug\DijitalSaat.exe
+c:\users\sercan\documents\visual studio 2015\Projects\DijitalSaat\DijitalSaat\bin\Debug\DijitalSaat.pdb
+c:\users\sercan\documents\visual studio 2015\Projects\DijitalSaat\DijitalSaat\obj\Debug\DijitalSaat.csprojResolveAssemblyReference.cache
+c:\users\sercan\documents\visual studio 2015\Projects\DijitalSaat\DijitalSaat\obj\Debug\DijitalSaat.Form1.resources
+c:\users\sercan\documents\visual studio 2015\Projects\DijitalSaat\DijitalSaat\obj\Debug\DijitalSaat.Properties.Resources.resources
+c:\users\sercan\documents\visual studio 2015\Projects\DijitalSaat\DijitalSaat\obj\Debug\DijitalSaat.csproj.GenerateResource.Cache
+c:\users\sercan\documents\visual studio 2015\Projects\DijitalSaat\DijitalSaat\obj\Debug\DijitalSaat.exe
+c:\users\sercan\documents\visual studio 2015\Projects\DijitalSaat\DijitalSaat\obj\Debug\DijitalSaat.pdb
