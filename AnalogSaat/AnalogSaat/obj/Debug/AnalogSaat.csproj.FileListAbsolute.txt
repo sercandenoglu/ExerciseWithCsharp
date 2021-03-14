@@ -1,0 +1,19 @@
+c:\users\sercan\documents\visual studio 2015\Projects\AnalogSaat\AnalogSaat\bin\Debug\AnalogSaat.exe.config
+c:\users\sercan\documents\visual studio 2015\Projects\AnalogSaat\AnalogSaat\bin\Debug\AnalogSaat.exe
+c:\users\sercan\documents\visual studio 2015\Projects\AnalogSaat\AnalogSaat\bin\Debug\AnalogSaat.pdb
+c:\users\sercan\documents\visual studio 2015\Projects\AnalogSaat\AnalogSaat\obj\Debug\AnalogSaat.Form1.resources
+c:\users\sercan\documents\visual studio 2015\Projects\AnalogSaat\AnalogSaat\obj\Debug\AnalogSaat.Properties.Resources.resources
+c:\users\sercan\documents\visual studio 2015\Projects\AnalogSaat\AnalogSaat\obj\Debug\AnalogSaat.csproj.GenerateResource.Cache
+c:\users\sercan\documents\visual studio 2015\Projects\AnalogSaat\AnalogSaat\obj\Debug\AnalogSaat.exe
+c:\users\sercan\documents\visual studio 2015\Projects\AnalogSaat\AnalogSaat\obj\Debug\AnalogSaat.pdb
+c:\users\sercan\documents\visual studio 2015\Projects\AnalogSaat\AnalogSaat\obj\Debug\AnalogSaat.csprojResolveAssemblyReference.cache
+D:\A\yazılım ile ilgili herşey\10.04.2017 Tüm projelerim yedek\AnalogSaat\AnalogSaat\bin\Debug\AnalogSaat.exe.config
+D:\A\yazılım ile ilgili herşey\10.04.2017 Tüm projelerim yedek\AnalogSaat\AnalogSaat\bin\Debug\AnalogSaat.exe
+D:\A\yazılım ile ilgili herşey\10.04.2017 Tüm projelerim yedek\AnalogSaat\AnalogSaat\bin\Debug\AnalogSaat.pdb
+D:\A\yazılım ile ilgili herşey\10.04.2017 Tüm projelerim yedek\AnalogSaat\AnalogSaat\obj\Debug\AnalogSaat.csprojAssemblyReference.cache
+D:\A\yazılım ile ilgili herşey\10.04.2017 Tüm projelerim yedek\AnalogSaat\AnalogSaat\obj\Debug\AnalogSaat.Form1.resources
+D:\A\yazılım ile ilgili herşey\10.04.2017 Tüm projelerim yedek\AnalogSaat\AnalogSaat\obj\Debug\AnalogSaat.Properties.Resources.resources
+D:\A\yazılım ile ilgili herşey\10.04.2017 Tüm projelerim yedek\AnalogSaat\AnalogSaat\obj\Debug\AnalogSaat.csproj.GenerateResource.cache
+D:\A\yazılım ile ilgili herşey\10.04.2017 Tüm projelerim yedek\AnalogSaat\AnalogSaat\obj\Debug\AnalogSaat.csproj.CoreCompileInputs.cache
+D:\A\yazılım ile ilgili herşey\10.04.2017 Tüm projelerim yedek\AnalogSaat\AnalogSaat\obj\Debug\AnalogSaat.exe
+D:\A\yazılım ile ilgili herşey\10.04.2017 Tüm projelerim yedek\AnalogSaat\AnalogSaat\obj\Debug\AnalogSaat.pdb
