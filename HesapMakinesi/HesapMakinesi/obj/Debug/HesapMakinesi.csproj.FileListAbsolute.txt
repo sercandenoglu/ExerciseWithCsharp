@@ -1,0 +1,17 @@
+c:\users\sercan\documents\visual studio 2015\Projects\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe
+c:\users\sercan\documents\visual studio 2015\Projects\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.pdb
+c:\users\sercan\documents\visual studio 2015\Projects\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.Properties.Resources.resources
+c:\users\sercan\documents\visual studio 2015\Projects\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.GenerateResource.Cache
+c:\users\sercan\documents\visual studio 2015\Projects\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.exe
+c:\users\sercan\documents\visual studio 2015\Projects\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.pdb
+C:\Users\Sercan\documents\visual studio 2015\Projects\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csprojResolveAssemblyReference.cache
+C:\Users\Sercan\documents\visual studio 2015\Projects\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.frmHesapMakinesi.resources
+D:\A\yazılım ile ilgili herşey\10.04.2017 Tüm projelerim yedek\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe
+D:\A\yazılım ile ilgili herşey\10.04.2017 Tüm projelerim yedek\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.pdb
+D:\A\yazılım ile ilgili herşey\10.04.2017 Tüm projelerim yedek\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csprojAssemblyReference.cache
+D:\A\yazılım ile ilgili herşey\10.04.2017 Tüm projelerim yedek\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.frmHesapMakinesi.resources
+D:\A\yazılım ile ilgili herşey\10.04.2017 Tüm projelerim yedek\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.Properties.Resources.resources
+D:\A\yazılım ile ilgili herşey\10.04.2017 Tüm projelerim yedek\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.GenerateResource.cache
+D:\A\yazılım ile ilgili herşey\10.04.2017 Tüm projelerim yedek\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.CoreCompileInputs.cache
+D:\A\yazılım ile ilgili herşey\10.04.2017 Tüm projelerim yedek\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.exe
+D:\A\yazılım ile ilgili herşey\10.04.2017 Tüm projelerim yedek\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.pdb
