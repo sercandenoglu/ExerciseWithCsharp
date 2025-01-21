@@ -1,2 +1,2 @@
 # ExerciseWithCsharp
-Simple exercises in C# for beginners
+Liseye gittiğim zamanlarda C# ile yaptığım projeler
